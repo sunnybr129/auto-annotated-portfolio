@@ -19,7 +19,7 @@
         "letterSpacing": "normal"
     },
     "h2": {
-        "size": "3xl",
+        "size": "xl",
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
