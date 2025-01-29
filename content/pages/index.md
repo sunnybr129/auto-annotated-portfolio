@@ -54,7 +54,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: LinkedIn
         altText: ''
         url: www.linkedin.com/in/sunnyboy-ngobeni/
         showIcon: false
