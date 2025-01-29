@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      i am an aspiring actuary, a recent graduate from the university of
-      pretoria
+      Hello, i'm Sunnyboy ngobeni.i am an aspiring actuary, a recent graduate
+      from the university of pretoria
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
