@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: '11'
+  - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: "Hello, i'm Sunnyboy ngobeni.\_ i am an aspiring actuary & a recent graduate from the university of pretoria"
