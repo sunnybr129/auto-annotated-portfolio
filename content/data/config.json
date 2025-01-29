@@ -34,16 +34,7 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "www.linkedin.com/in/sunnyboy-ngobeni",
-                "icon": "linkedin",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
