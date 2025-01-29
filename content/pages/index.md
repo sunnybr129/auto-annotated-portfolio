@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: "Hello, i'm Sunnyboy ngobeni.\_ "
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      i am an aspiring actuary & a recent graduate from the university of
+      pretoria
     styles:
       self:
         height: auto
