@@ -10,6 +10,16 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "LinkedIn",
+                "altText": "",
+                "url": "/www.linkedin.com/in/sunnyboy-ngobeni",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Info",
                 "url": "/info"
             },
@@ -22,16 +32,6 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "LinkedIn",
-                "altText": "",
-                "url": "/www.linkedin.com/in/sunnyboy-ngobeni",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
