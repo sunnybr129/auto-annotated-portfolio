@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Hello, i'm Sunnyboy ngobeni.\_ i am an aspiring actuary & a recent graduate from the university of pretoria"
+    title: "Hello, i'm Sunnyboy ngobeni.\_ "
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
