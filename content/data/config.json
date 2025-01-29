@@ -32,13 +32,6 @@
                 "url": "www.linkedin.com/in/sunnyboy-ngobeni",
                 "icon": "linkedin",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
