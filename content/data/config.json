@@ -13,7 +13,7 @@
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "www.linkedin.com/in/sunnyboy-ngobeni",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "linkedin",
                 "iconPosition": "left",
                 "elementId": ""
