@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: "Hello, i'm Sunnyboy ngobeni.\_ "
     subtitle: >-
-      i am an aspiring actuary & a recent graduate from the university of
+      I am an aspiring actuary & a recent graduate from the university of
       pretoria
     styles:
       self:
