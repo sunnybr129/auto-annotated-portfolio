@@ -53,6 +53,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: www.linkedin.com/in/sunnyboy-ngobeni/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     text: ''
     media:
       type: ImageBlock
