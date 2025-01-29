@@ -197,5 +197,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-socialImage: /images/20250129_182856.jpg
+socialImage: /images/20250129_183043.jpg
 ---
